@@ -1,4 +1,4 @@
-# 
+# Avançado JetBrains PyCharm modelos para Mac OS | Profissional JetBrains PyCharm modelos para PC Windows. Com integração de terminal e varredura de imagens — otimizado para máximo desempenho em cada plataforma.
 
 
 
